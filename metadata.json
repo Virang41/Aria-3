@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of Gemini Live Voice Assistant",
+  "description": "A real-time voice assistant using Gemini 2.5 Flash Native Audio Preview with low-latency bi-directional streaming.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
